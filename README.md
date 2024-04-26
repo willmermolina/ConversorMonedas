@@ -15,3 +15,17 @@ El conversor ha sido desarrollado en JAVA, y en un primer vistazo, podrá apreci
 ### Demo
 [![conversor_demonstration](conversor.png)]((https://youtu.be/ud5lg6iTIic))
 
+### Ejecutar ejemplo
+* Descargue o clone el proyecto
+* Obtenga su APY_KEY en https://www.exchangerate-api.com/
+* Abra la ruta: src/com/willmer/covertidor/calculos/ConsultaDivisa.java y remplave el contenido de la variable apiKey
+* compile y ejecute desde IDE
+
+### El Autor
+Willmer Molina
+Aprendis desarrollador Back-End
+
+[Linkedin](www.linkedin.com/in/willmer-molina-lopez/)
+[GitHub](https://github.com/willmermolina/)
+  
+
