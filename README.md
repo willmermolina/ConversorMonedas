@@ -10,3 +10,8 @@ El conversor ha sido desarrollado en JAVA, y en un primer vistazo, podrá apreci
 	- Conexion con  https://v6.exchangerate-api.com para consumir API y obtener datos.
 	- Recibir del usuario la cantidad que desea cambiar.
 	- Efectuar el cambio y mostrar la transacción
+
+### Previsualizacion
+	![image](ConversorMonedas/conversor.png)
+
+### Demo
