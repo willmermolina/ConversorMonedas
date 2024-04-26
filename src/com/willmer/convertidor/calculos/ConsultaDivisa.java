@@ -13,7 +13,8 @@ import java.net.http.HttpResponse;
 
 public class ConsultaDivisa {
     public Divisa calculaDivisa(String baseCode, String targetCode, double monto){
-        String direccion = "https://v6.exchangerate-api.com/v6/92ada4bf01e89a44e263354e/pair/"+baseCode+"/"+targetCode+"/"+monto;
+        String apiKey = "COPIA_TU_API_KEY_AQUI";
+        String direccion = "https://v6.exchangerate-api.com/v6/"+apiKey+"/pair/"+baseCode+"/"+targetCode+"/"+monto;
         Gson gson= new GsonBuilder()
                 .setPrettyPrinting()
                 .create();
