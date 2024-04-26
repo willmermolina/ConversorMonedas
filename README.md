@@ -11,7 +11,7 @@ El conversor ha sido desarrollado en JAVA, y en un primer vistazo, podrá apreci
 	- Recibir del usuario la cantidad que desea cambiar.
 	- Efectuar el cambio y mostrar la transacción
 
-### Previsualizacion
-	![image](ConversorMonedas/conversor.png)
 
 ### Demo
+[![conversor_demonstration](conversor.png)](https://youtu.be/5Hi1AXs4gak)
+
